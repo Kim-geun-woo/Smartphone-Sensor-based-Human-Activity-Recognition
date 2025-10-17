@@ -24,7 +24,7 @@
 | 검토 담당자 | 팀원 E | 코드 및 결과 검토 |
 | 타임키퍼 | 팀원 F | 일정 관리, 회의 시간 체크 |
 
-> 🔹 모든 팀원은 개인 파일 3가지를 모두 진행하며, 본인은 **서기로 회의록 작성** 담당
+> 🔹 모든 팀원은 데이터 분석, 기본 모델링, 단계적 모델링 과정의 개인 실습 파일을 모두 작성했으며, 저는 서기로서 회의록 작성을 담당했습니다.
 
 ---
 
@@ -110,6 +110,6 @@
 [![발표자료 확인](https://github.com/Kim-geun-woo/Smartphone-Sensor-based-Human-Activity-Recognition/raw/main/images/ppt_Smartphone%20Sensor-based%20Human%20Activity%20Recognition.png)](https://github.com/Kim-geun-woo/Smartphone-Sensor-based-Human-Activity-Recognition/blob/main/docs/Smartphone-Sensor-based-Human-Activity-Recognition.pdf)
 
 
-> 📌 썸네일을 클릭하면 PDF 파일이 있는 GitHub 페이지로 바로 이동합니다.
+> 📌 썸네일을 클릭하면 발표자료를 바로 확인할 수 있습니다.
 
 
