@@ -107,7 +107,8 @@
 
 ## 🖼️ 발표 자료 (Presentation)
 
-[![발표자료 확인하기]([https://github.com/Kim-geun-woo/Smartphone-Sensor-based-Human-Activity-Recognition/raw/main/images/ppt.png](https://github.com/Kim-geun-woo/Smartphone-Sensor-based-Human-Activity-Recognition/blob/main/images/ppt_Smartphone%20Sensor-based%20Human%20Activity%20Recognition.png))]([https://github.com/Kim-geun-woo/Smartphone-Sensor-based-Human-Activity-Recognition/blob/main/docs/AI%20%EB%AF%B8%ED%94%84%201%EC%B0%A8%20%EA%B3%BC%EC%A0%9C2_05%EB%B0%98_10%EC%A1%B0.pdf](https://github.com/Kim-geun-woo/Smartphone-Sensor-based-Human-Activity-Recognition/blob/main/docs/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%20%EC%84%BC%EC%84%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%ED%96%89%EB%8F%99%20%EB%B6%84%EB%A5%98%20%EB%AA%A8%EB%8D%B8.pdf))
+[![발표자료 확인](https://github.com/.../ppt_Smartphone%20Sensor-based%20Human%20Activity%20Recognition.png)](https://raw.githubusercontent.com/Kim-geun-woo/Smartphone-Sensor-based-Human-Activity-Recognition/main/docs/Smartphone_Sensor_Human_Activity_Recognition.pdf)
+
 
 > 📌 썸네일을 클릭하면 PDF 파일이 있는 GitHub 페이지로 바로 이동합니다.
 
